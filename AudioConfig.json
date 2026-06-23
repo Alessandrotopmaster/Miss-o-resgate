@@ -1,0 +1,9 @@
+{
+  "modo_voz_padrao": "Misteriosa",
+  "volume_voz": 0.8,
+  "volume_ambiente": 0.6,
+  "volume_efeitos": 0.7,
+  "usar_eco_voz": true,
+  "usar_distorcao_voz": false,
+  "tipo_som_fundo": "Suspenso"
+}
