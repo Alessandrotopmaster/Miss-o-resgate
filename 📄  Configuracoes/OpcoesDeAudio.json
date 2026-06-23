@@ -1,0 +1,8 @@
+{
+  "modoVozPadrao": "Misteriosa",
+  "volumeVoz": 0.8,
+  "volumeSonsAmbiente": 0.6,
+  "volumeEfeitos": 0.7,
+  "efeitoEcoVoz": true,
+  "distorcaoVoz": false
+}
